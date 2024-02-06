@@ -2,7 +2,6 @@
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-      test
       </div>
 
 </template>
